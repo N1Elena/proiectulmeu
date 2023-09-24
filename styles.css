@@ -1,0 +1,95 @@
+body{
+      background-image: url("/imagini/fundal.jpg");
+      background-image: -webkit-gradient(linear,0% 0%,0% 100% from(#66cccc),to (#366));
+        font-family: 'Montserrat Alternates', sans-serif;
+        margin-left: 100px;
+        margin-right: 100px;
+        background-color: rgb(109, 204, 50);
+        font-size: 128%;
+        word-spacing: 0.2em;
+}
+/* img{width: 100%;} */
+/* *{background-color:lemonchiffon;} */
+
+h1{text-shadow: 1px 1px blue;
+}
+
+h1{text-align: center;}
+nav ul{
+    list-style-type:none;
+}
+
+nav a{text-decoration: none;}
+
+nav li {display: inline-block;}
+
+nav a:link,nav a :visited{
+    width:150px;
+    display:block;
+    text-align: center;
+    padding:0px ;
+    font-size:20px;
+    font-weight: bold;
+    /* color:blue; */
+}
+nav a:hover{
+    color:red;
+    /* background-color:green; */
+}
+
+h3{text-shadow: 0.3px 0.3px green;}
+.videoclip{
+    padding-left: 20px;
+}
+.sectiune_superioara{
+    text-align: center;
+    position: absolute;
+    top: 120px;
+    right: 400px;
+    /* background-color: brown; */
+ }
+.descriere{
+    padding: left 20px; 
+    padding-right: 20px;
+    padding: bottom -3px;
+    /* background-color:aquamarine; */
+}   
+
+img {
+border-radius:30%;
+    /* float:left; */
+padding-right:20px;
+}
+.scari_int{
+    padding-left:20px;
+    padding-right: 20px;
+    padding-bottom: -3px;
+    padding-top:-5px;
+    /* background-color: indianred; */
+}
+
+.usa_fatada{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: -3px;
+  padding-top: -60px;
+  /* background-color: burlywood; */
+}
+
+.balcoane{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom:-3px;
+    padding-top:- 60px;
+    /* background-color: darkorchid; */
+  }
+
+.metoda_contact{
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      /* background-color: cyan; */
+}
+   
+    
